@@ -2,7 +2,7 @@
 
 A futuristic landing page built with a **Liquid Glass (Glassmorphism 2.0)** design language. Inspired by modern Apple interfaces, fluid motion, soft transparency, dynamic lighting, and premium animations.
 
-![LiquidOS Screenshot](./public/screenshot.png)
+/#[LiquidOS Screenshot](./public/screenshot.png)
 
 ---
 
